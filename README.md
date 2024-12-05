@@ -1,0 +1,1 @@
+Developed an online shopping system to streamline the user experience in e-commerce. Implemented features such as user authentication, product catalog, and secure checkout using Java Full Stack technologies. 
